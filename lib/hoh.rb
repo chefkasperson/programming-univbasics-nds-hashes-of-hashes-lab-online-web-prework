@@ -35,10 +35,10 @@ def naming_system
   hash = {
     :label => "Kingdom",
     :sub_category => {
-      :label => "Phylum"
-    },
-    :sub_category => {
-      :label => "Class"
+      :label => "Phylum",
+      :sub_category => {
+        :label => "Class",
+        :sub_category => }
     },
     :label => "Order",
     :label => "Family",
