@@ -31,6 +31,14 @@
 # }
 
 def naming_system
+  
+  hash = {
+    {:label => "Kingdom",
+    {:label => "Phylum"},
+    {:label => "C
+  },
+  
+  
   # Remember:
   #  Kingdom
   #  Phylum
