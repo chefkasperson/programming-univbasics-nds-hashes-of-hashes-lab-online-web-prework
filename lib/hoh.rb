@@ -35,8 +35,15 @@ def naming_system
   hash = {
     {:label => "Kingdom",
     {:label => "Phylum"},
-    {:label => "C
-  },
+    {:label => "Class"}
+    },
+    {:label => "Order"},
+    {:label => "Family",
+    {:label => "Genus"}
+    },
+    {:label => "Species",
+    {:sub_category => {}}
+    }
   
   
   # Remember:
